@@ -1,4 +1,10 @@
-### Hi there 👋
+### I design and build digital things.
+
+Previously I co-founded [Lemon Labs](http://lemonlabs.co) app design and development agency, worked as head of product design at [Treatwell](https://www.treatwell.co.uk) and created [Infinite Loop game](https://loopgame.co). Now, building new things and seeing where it leads me.
+
+Now 29 years old, living in Vilnius, Lithuania. I have been designing and developing for close to 15 years, and hold a BA degree in Graphic Design from Vilnius Academy of Arts.
+
+Currently I am independently designing and building new apps, trying to create something both useful and delightful.
 
 <!--
 **lekevicius/lekevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
