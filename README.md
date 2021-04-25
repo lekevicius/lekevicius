@@ -6,8 +6,6 @@ Now 30 years old, living in Vilnius, Lithuania. I have been designing and develo
 
 Currently I am independently designing and building new apps, trying to create something both useful and delightful.
 
-<strong>alert("beep")</strong>
-
 <!--
 
 Here are some ideas to get you started:
